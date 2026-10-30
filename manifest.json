@@ -3,7 +3,7 @@
   "name": "Workspace Orchestrator",
   "version": "0.1.0",
   "minAppVersion": "1.7.2",
-  "description": "Pane navigation, named regions, sessions, templates, and workspace packs for Obsidian.",
+  "description": "Navigate panes, named regions, sessions, and workspace packs.",
   "author": "dylanchid",
   "isDesktopOnly": false
 }
