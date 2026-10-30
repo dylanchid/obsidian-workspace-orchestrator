@@ -1,0 +1,18 @@
+{
+  "name": "workspace-orchestrator",
+  "version": "0.1.0",
+  "description": "Pane navigation, named regions, sessions, templates, and workspace packs for Obsidian.",
+  "main": "main.js",
+  "scripts": {
+    "check": "node --check main.js"
+  },
+  "keywords": [
+    "obsidian",
+    "workspace",
+    "layouts",
+    "sessions",
+    "panes"
+  ],
+  "author": "dylanchid",
+  "license": "MIT"
+}
