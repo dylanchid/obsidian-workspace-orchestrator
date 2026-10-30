@@ -33,6 +33,10 @@ The plugin stores metadata in its own `data.json`; it does not store file conten
 
 Pack format details live in `PACK_SCHEMA.md`.
 
+## Install manually
+
+Copy `manifest.json`, `main.js`, and `styles.css` into `<vault>/.obsidian/plugins/workspace-orchestrator/`, then enable the plugin under **Settings → Community plugins**. The readable JavaScript implementation is in `main.js`.
+
 ## Trust model
 
 - No network calls.
@@ -48,3 +52,7 @@ Pack format details live in `PACK_SCHEMA.md`.
 - Pack signing or trusted-source metadata for a future marketplace.
 - Optional dependency metadata for community plugin views.
 - Rich conflict resolution when files or plugin view types are missing.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
